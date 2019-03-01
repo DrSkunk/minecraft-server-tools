@@ -1,0 +1,14 @@
+{
+  "name": "factorio_json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "rcon": "^1.0.3",
+    "restify": "^8.0.0"
+  }
+}
